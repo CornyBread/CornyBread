@@ -7,7 +7,7 @@ Computer Engineering student at **Universidad Rafael Urdaneta**
 
 ## 🛠️ Tech stack
 
-[![Stack](https://skillicons.dev/icons?i=python,fastapi,rust,cpp,cs,ts,js,dart,flutter,angular,ionic,react,sqlite,git,linux&perline=15)](#)
+[![Stack](https://skillicons.dev/icons?i=python,fastapi,rust,cpp,cs,ts,js,angular,ionic,react,sqlite,git,linux&perline=15)](#)
 
 ## 🚀 Featured projects · Proyectos destacados
 
