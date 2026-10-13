@@ -3,13 +3,11 @@
 Computer Engineering student at **Universidad Rafael Urdaneta**
 📍 Maracaibo, Zulia, Venezuela · 📫 [davidesber7@gmail.com](mailto:davidesber7@gmail.com)
 
-<sub>🇪🇸 **Hola, soy David.** Desarrollador backend y móvil, estudiante de Ingeniería en Computación en la URU. Construyo APIs y apps móviles, y me gusta entender cómo funcionan las cosas por dentro.</sub>
-
-## 🛠️ Tech stack
+## Tech stack
 
 [![Stack](https://skillicons.dev/icons?i=python,fastapi,rust,cpp,cs,ts,js,angular,ionic,react,sqlite,git,linux&perline=15)](#)
 
-## 🚀 Featured projects · Proyectos destacados
+## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -19,6 +17,6 @@ Computer Engineering student at **Universidad Rafael Urdaneta**
 | [**receipt-manager**](https://github.com/CornyBread/receipt-manager) | Invoice processing with OCR and an email approval workflow | Python · FastAPI · Tesseract |
 | [**BinaryTreeImp**](https://github.com/CornyBread/BinaryTreeImp) | Succession-line manager on a binary tree | C++ |
 
-## 🌐 Languages · Idiomas
+## Languages
 
 🇪🇸 Spanish (native) · 🇬🇧 English
