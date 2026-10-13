@@ -1,9 +1,7 @@
 # Hi, I'm David Esber 👋
 
-**Backend & Mobile Developer** · Computer Engineering student at **Universidad Rafael Urdaneta**
+Computer Engineering student at **Universidad Rafael Urdaneta**
 📍 Maracaibo, Zulia, Venezuela · 📫 [davidesber7@gmail.com](mailto:davidesber7@gmail.com)
-
-I build APIs and mobile apps, and I like going down to the low-level details: I've written a compiler in Rust and data structures in C++.
 
 <sub>🇪🇸 **Hola, soy David.** Desarrollador backend y móvil, estudiante de Ingeniería en Computación en la URU. Construyo APIs y apps móviles, y me gusta entender cómo funcionan las cosas por dentro.</sub>
 
